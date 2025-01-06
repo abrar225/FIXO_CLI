@@ -100,3 +100,4 @@
 - [2026-08-06T16:34:59] test: expand test coverage for utility modules
 - [2025-01-02T13:13:25] docs: clarify API usage examples in documentation
 - [2025-01-04T11:40:41] refactor: clean up unused variables and imports
+- [2025-01-06T18:53:15] docs: clarify API usage examples in documentation
