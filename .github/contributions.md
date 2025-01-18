@@ -105,3 +105,4 @@
 - [2025-01-12T15:40:06] fix: resolve edge cases in parameter validation
 - [2025-01-15T18:28:29] docs: update activity log and documentation
 - [2025-01-16T16:05:36] chore: update dependencies and environment config
+- [2025-01-18T09:10:36] docs: clarify API usage examples in documentation
