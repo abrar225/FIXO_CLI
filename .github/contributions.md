@@ -113,3 +113,4 @@
 - [2025-02-02T19:59:34] chore: update configuration and build scripts
 - [2025-02-10T09:18:22] chore: update configuration and build scripts
 - [2025-02-10T11:57:34] refactor: clean up unused variables and imports
+- [2025-02-11T18:13:13] test: expand test coverage for utility modules
