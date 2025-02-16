@@ -115,3 +115,4 @@
 - [2025-02-10T11:57:34] refactor: clean up unused variables and imports
 - [2025-02-11T18:13:13] test: expand test coverage for utility modules
 - [2025-02-13T14:49:42] feat: add utility methods for state management
+- [2025-02-16T13:41:30] chore: update configuration and build scripts
