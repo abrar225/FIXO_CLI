@@ -117,3 +117,4 @@
 - [2025-02-13T14:49:42] feat: add utility methods for state management
 - [2025-02-16T13:41:30] chore: update configuration and build scripts
 - [2025-02-16T22:15:09] perf: improve execution speed in hot paths
+- [2025-02-21T17:40:42] docs: clarify API usage examples in documentation
