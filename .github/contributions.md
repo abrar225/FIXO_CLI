@@ -118,3 +118,4 @@
 - [2025-02-16T13:41:30] chore: update configuration and build scripts
 - [2025-02-16T22:15:09] perf: improve execution speed in hot paths
 - [2025-02-21T17:40:42] docs: clarify API usage examples in documentation
+- [2025-02-27T09:45:46] refactor: optimize internal helper functions
