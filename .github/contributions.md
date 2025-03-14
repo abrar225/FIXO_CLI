@@ -120,3 +120,4 @@
 - [2025-02-21T17:40:42] docs: clarify API usage examples in documentation
 - [2025-02-27T09:45:46] refactor: optimize internal helper functions
 - [2025-03-04T16:04:05] perf: improve execution speed in hot paths
+- [2025-03-14T20:43:06] test: expand test coverage for utility modules
