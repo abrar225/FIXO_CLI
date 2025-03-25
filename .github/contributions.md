@@ -123,3 +123,4 @@
 - [2025-03-14T20:43:06] test: expand test coverage for utility modules
 - [2025-03-17T15:22:58] fix: correct minor typo in logging output
 - [2025-03-21T11:26:44] style: improve code formatting and comments
+- [2025-03-25T09:25:10] docs: clarify API usage examples in documentation
