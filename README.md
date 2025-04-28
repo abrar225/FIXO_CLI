@@ -528,18 +528,4 @@ fixo
 
 ## 📄 License
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-- [2025-03-08T16:03:02] style: enhance README formatting and badge definitions
-- [2025-05-06T10:08:34] docs(readme): improve documentation notes and usage guidelines
-- [2025-06-18T19:41:33] docs(readme): improve documentation notes and usage guidelines
-- [2025-08-04T22:28:15] docs(readme): improve documentation notes and usage guidelines
-- [2025-08-16T21:50:57] style: enhance README formatting and badge definitions
-- [2025-09-02T18:45:40] style: enhance README formatting and badge definitions
-- [2025-09-16T16:05:10] style: enhance README formatting and badge definitions
-- [2026-01-20T21:26:03] style: enhance README formatting and badge definitions
-- [2026-01-21T10:42:35] style: enhance README formatting and badge definitions
-- [2026-03-26T12:42:32] docs(readme): improve documentation notes and usage guidelines
-- [2026-04-10T20:44:32] docs(readme): improve documentation notes and usage guidelines
-- [2026-04-20T15:02:29] docs(readme): improve documentation notes and usage guidelines
-- [2026-06-11T13:49:56] style: enhance README formatting and badge definitions
-- [2026-07-13T11:03:59] docs(readme): improve documentation notes and usage guidelines
-- [2026-07-17T20:22:29] docs(readme): improve documentation notes and usage guidelines
+<!-- [2025-04-28T15:39:09] docs(readme): update project documentation and overview -->
