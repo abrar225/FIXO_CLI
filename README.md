@@ -529,3 +529,4 @@ fixo
 ## 📄 License
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 - [2025-03-08T16:03:02] style: enhance README formatting and badge definitions
+- [2025-05-06T10:08:34] docs(readme): improve documentation notes and usage guidelines
