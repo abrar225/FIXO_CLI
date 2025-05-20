@@ -134,3 +134,4 @@
 - [2025-05-07T22:33:38] chore: update configuration and build scripts
 - [2025-05-09T10:55:31] feat: add utility methods for state management
 - [2025-05-16T13:10:11] style: improve code formatting and comments
+- [2025-05-20T17:37:02] docs: clarify API usage examples in documentation
