@@ -146,3 +146,4 @@
 - [2025-06-28T11:49:22] refactor: clean up unused variables and imports
 - [2025-06-30T16:50:50] refactor: clean up unused variables and imports
 - [2025-07-03T18:05:24] fix: correct minor typo in logging output
+- [2025-07-15T11:00:23] fix: resolve edge cases in parameter validation
