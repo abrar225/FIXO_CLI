@@ -1,0 +1,1 @@
+- [2025-08-12T12:26:06] feat: add utility methods for state management
