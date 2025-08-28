@@ -3,3 +3,4 @@
 - [2025-08-17T11:03:35] fix: correct minor typo in logging output
 - [2025-08-21T14:26:14] docs: update activity log and documentation
 - [2025-08-25T11:27:21] style: improve code formatting and comments
+- [2025-08-28T16:36:57] refactor: optimize internal helper functions
