@@ -531,3 +531,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 <!-- [2025-04-28T15:39:09] docs(readme): update project documentation and overview -->
 <!-- [2025-08-12T19:28:28] style: improve formatting and badge alignment -->
 <!-- [2025-08-17T17:36:53] style: improve formatting and badge alignment -->
+<!-- [2025-09-02T20:14:36] style: improve formatting and badge alignment -->
