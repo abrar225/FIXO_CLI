@@ -5,3 +5,4 @@
 - [2025-08-25T11:27:21] style: improve code formatting and comments
 - [2025-08-28T16:36:57] refactor: optimize internal helper functions
 - [2025-09-01T14:13:26] chore: update dependencies and environment config
+- [2025-09-04T18:52:26] chore: update configuration and build scripts
