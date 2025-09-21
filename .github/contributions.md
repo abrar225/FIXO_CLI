@@ -8,3 +8,4 @@
 - [2025-09-04T18:52:26] chore: update configuration and build scripts
 - [2025-09-05T17:53:04] refactor: optimize internal helper functions
 - [2025-09-18T16:20:10] docs: clarify API usage examples in documentation
+- [2025-09-21T09:09:23] fix: resolve edge cases in parameter validation
