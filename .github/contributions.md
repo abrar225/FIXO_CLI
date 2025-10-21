@@ -12,3 +12,4 @@
 - [2025-09-21T16:12:03] chore: update dependencies and environment config
 - [2025-09-29T19:00:03] test: expand test coverage for utility modules
 - [2025-10-09T22:52:50] test: expand test coverage for utility modules
+- [2025-10-21T13:10:48] docs: clarify API usage examples in documentation
