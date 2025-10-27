@@ -14,3 +14,4 @@
 - [2025-10-09T22:52:50] test: expand test coverage for utility modules
 - [2025-10-21T13:10:48] docs: clarify API usage examples in documentation
 - [2025-10-24T15:11:29] perf: improve execution speed in hot paths
+- [2025-10-27T11:21:34] chore: update configuration and build scripts
