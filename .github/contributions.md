@@ -19,3 +19,4 @@
 - [2025-11-04T16:57:47] test: expand test coverage for utility modules
 - [2025-11-05T12:57:26] docs: clarify API usage examples in documentation
 - [2025-11-12T14:11:36] fix: correct minor typo in logging output
+- [2025-11-18T20:33:53] chore: update dependencies and environment config
