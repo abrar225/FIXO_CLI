@@ -26,3 +26,4 @@
 - [2025-11-28T20:16:52] style: improve code formatting and comments
 - [2025-12-05T10:27:18] fix: correct minor typo in logging output
 - [2025-12-15T12:09:07] fix: correct minor typo in logging output
+- [2025-12-19T10:17:34] feat: add utility methods for state management
