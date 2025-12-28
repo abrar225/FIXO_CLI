@@ -31,3 +31,4 @@
 - [2025-12-23T18:31:13] chore: update configuration and build scripts
 - [2025-12-24T13:36:26] docs: update activity log and documentation
 - [2025-12-28T10:26:08] fix: resolve edge cases in parameter validation
+- [2025-12-28T18:12:22] docs: clarify API usage examples in documentation
