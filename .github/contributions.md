@@ -30,3 +30,4 @@
 - [2025-12-22T09:25:24] refactor: clean up unused variables and imports
 - [2025-12-23T18:31:13] chore: update configuration and build scripts
 - [2025-12-24T13:36:26] docs: update activity log and documentation
+- [2025-12-28T10:26:08] fix: resolve edge cases in parameter validation
