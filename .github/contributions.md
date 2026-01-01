@@ -33,3 +33,4 @@
 - [2025-12-28T10:26:08] fix: resolve edge cases in parameter validation
 - [2025-12-28T18:12:22] docs: clarify API usage examples in documentation
 - [2025-12-29T12:27:59] docs: clarify API usage examples in documentation
+- [2026-01-01T14:24:07] style: improve code formatting and comments
