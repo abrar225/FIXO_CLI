@@ -35,3 +35,4 @@
 - [2025-12-29T12:27:59] docs: clarify API usage examples in documentation
 - [2026-01-01T14:24:07] style: improve code formatting and comments
 - [2026-01-05T18:35:06] perf: improve execution speed in hot paths
+- [2026-01-07T18:43:56] chore: update configuration and build scripts
