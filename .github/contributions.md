@@ -40,3 +40,4 @@
 - [2026-01-14T12:55:21] perf: improve execution speed in hot paths
 - [2026-01-17T20:08:56] refactor: clean up unused variables and imports
 - [2026-01-20T10:47:13] style: improve code formatting and comments
+- [2026-01-21T15:16:23] refactor: optimize internal helper functions
