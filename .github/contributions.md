@@ -51,3 +51,4 @@
 - [2026-03-03T13:33:07] test: expand test coverage for utility modules
 - [2026-03-04T11:43:23] test: expand test coverage for utility modules
 - [2026-03-06T17:11:22] perf: improve execution speed in hot paths
+- [2026-03-12T11:55:03] feat: add utility methods for state management
