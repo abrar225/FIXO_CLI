@@ -68,3 +68,4 @@
 - [2026-05-08T22:34:31] style: improve code formatting and comments
 - [2026-05-09T18:32:44] test: expand test coverage for utility modules
 - [2026-05-13T11:46:43] docs: clarify API usage examples in documentation
+- [2026-05-14T16:26:42] chore: update dependencies and environment config
