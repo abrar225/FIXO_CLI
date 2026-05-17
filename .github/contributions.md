@@ -70,3 +70,4 @@
 - [2026-05-13T11:46:43] docs: clarify API usage examples in documentation
 - [2026-05-14T16:26:42] chore: update dependencies and environment config
 - [2026-05-17T16:58:14] docs: update activity log and documentation
+- [2026-05-17T16:46:19] docs: clarify API usage examples in documentation
