@@ -79,3 +79,4 @@
 - [2026-05-25T09:26:34] docs: clarify API usage examples in documentation
 - [2026-05-28T16:33:47] docs: clarify API usage examples in documentation
 - [2026-06-04T13:06:11] refactor: clean up unused variables and imports
+- [2026-06-05T10:33:54] chore: update configuration and build scripts
