@@ -81,3 +81,4 @@
 - [2026-06-04T13:06:11] refactor: clean up unused variables and imports
 - [2026-06-05T10:33:54] chore: update configuration and build scripts
 - [2026-06-05T15:59:10] docs: clarify API usage examples in documentation
+- [2026-06-05T21:58:31] refactor: clean up unused variables and imports
