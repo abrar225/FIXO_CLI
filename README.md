@@ -540,3 +540,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 - [2026-03-26T12:42:32] docs(readme): improve documentation notes and usage guidelines
 - [2026-04-10T20:44:32] docs(readme): improve documentation notes and usage guidelines
 - [2026-04-20T15:02:29] docs(readme): improve documentation notes and usage guidelines
+- [2026-06-11T13:49:56] style: enhance README formatting and badge definitions
