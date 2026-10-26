@@ -1,29 +1,23 @@
 # ⚡ Fixo CLI
-> **Autonomous, Free, Multi-Provider LLM Coding Agent CLI**
+> **TypeScript coding agent CLI with multi-provider LLM integration**
 
 [![Language](https://img.shields.io/badge/Language-TypeScript-blue.svg)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Engine](https://img.shields.io/badge/Engine-Tree--Sitter-orange.svg)](https://tree-sitter.github.io/tree-sitter/)
-[![Status](https://img.shields.io/badge/Status-Production--Ready-brightgreen.svg)]()
 
 Fixo CLI is a terminal-based autonomous coding assistant designed to execute complex programming tasks directly in your workspace. Built as a self-correcting agent, it analyzes code using abstract syntax trees (AST), writes implementation plans, edits code files, runs test suites, and iterates until the goal is fully achieved.
 
-Fixo CLI integrates seamlessly with **FreeLLMAPI**, automatically load-balancing and failing over across **20+ free LLM providers** (such as Gemini, Groq, SambaNova, Cerebras, and NVIDIA NIM) for zero-cost, state-of-the-art agentic coding.
+Fixo CLI connects to a **FreeLLMAPI** server for multi-provider model routing and fallback. Available models, provider limits, billing requirements, and costs depend on your server configuration and each provider's current terms. Free tiers do not guarantee unlimited or permanently free usage.
 
 ---
 
-## 📊 Fixo CLI vs. Other Market Leaders
+## Costs and compatibility
 
-Here is how Fixo CLI compares against other prominent terminal and editor-based coding agents:
+This repository documents Fixo CLI's own features. It does not provide a reproducible benchmark against other coding agents.
 
-| Feature / Metric | **Fixo CLI** | **Claude Code** | **Aider** | **Cline** |
-| :--- | :--- | :--- | :--- | :--- |
-| **API Cost** | 💰 **100% Free** (via FreeLLMAPI) | 💸 **Paid** (Anthropic API charges) | 💸 **Paid** (Requires personal keys) | 💸 **Paid** (Requires personal keys) |
-| **Multi-Provider Fallback**| 🔄 **Automatic Failover** (No interruptions) | ❌ None (Locked to Anthropic) | ❌ Manual (Requires editing configs) | ❌ Manual (Drops request on 429) |
-| **Workspace Indexing** | 🌳 **AST / Tree-Sitter** (Semantic map) | 🔍 Regex / basic grep | 🗺️ Git/ctags-based map | 🔍 Basic file search |
-| **Autonomy Loops** | 🤖 **Multi-agent / Planning Mode** | 🤖 Agent loops | 💬 Interactive / chat-driven | 💬 Prompt-to-action loops |
-| **Self-Correction** | 🧪 **Built-in test runner & loops** | ❌ Manual trigger | ❌ Requires manual input | ❌ Requires manual input |
-| **No-Card Verification** | ✅ **Yes** (Zero billing required) | ❌ No (Requires credit card) | ❌ No (Requires paid API keys) | ❌ No (Requires paid API keys) |
+- Review the configured provider's quotas, credentials, billing requirements, and model availability before running tasks.
+- Provider fallback can improve resilience, but cannot guarantee uninterrupted requests or eliminate every rate limit.
+- Use the installation and configuration instructions below to verify the supported runtime and your FreeLLMAPI endpoint.
 
 ---
 
@@ -67,7 +61,7 @@ sequenceDiagram
 
 * **Autonomous Agent Loop:** Fixo CLI runs an agent loop that defines planning sub-agents, writes files, runs shell commands, reads compiler output, and self-corrects until tests pass.
 * **Workspace AST Indexer:** Uses **Tree-Sitter** to parse JavaScript, TypeScript, Python, and Go codebases, generating a semantic repository map for precise context insertion.
-* **Free Multi-Provider Routing:** Connects to your FreeLLMAPI server to query models like Llama 3.3, Qwen 3, and Gemini 2.5/3.1 without incurring high API costs.
+* **Multi-Provider Routing:** Connects to your FreeLLMAPI server; available models and costs depend on the configured providers.
 * **Smart Cooldown & Failover:** The CLI automatically tracks rate-limited providers (429/402/404) and switches to working alternatives in the fallback chain mid-request.
 * **Resilience Stack:** Stream recovery, provider cooldown, context-budget enforcement, and a local telemetry sink work together so the agent stays productive on flaky networks and large codebases. See [Resilience](#-resilience) below.
 * **Built-in Workspace Guard:** Safely manages workspace locks, preventing concurrent file writes and ensuring git safety.
